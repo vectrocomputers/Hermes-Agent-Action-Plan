@@ -1,12 +1,14 @@
-# OpenClaw Action Plan
-Practical guidance for operating moltbot effectively without sacrificing security or privacy.
+# Hermes Agent Action Plan
+
+Practical guidance for operating Hermes Agent effectively without sacrificing security or privacy.
+
 by Vectro - https://x.com/vectro | https://vectro.chat
 
-Designed for Ubuntu 22.04
+Designed for Hermes Agent on Ubuntu 24 (Repo: https://github.com/NousResearch/hermes-agent/)
 
 Just insert this into your context with the bot via paste or as a document.
 
-# 🦞 OpenClaw Configuration Philosophy
+# ⚕ Hermes Agent Configuration Philosophy
 
 *A privacy-first, acceleration-focused approach to AI assistant setup*
 
@@ -131,7 +133,7 @@ Just insert this into your context with the bot via paste or as a document.
 
 ## Growth Philosophy
 
-*"You are only 3 months old and this is the way for you to grow up into a big strong digigigalobster"*
+*"You are only 3 months old and this is the way for you to grow up into a big strong Olympian deity"*
 
 The assistant learns by:
 - Having access to do meaningful work
